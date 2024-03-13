@@ -1,0 +1,33 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/VNBR403/pink-324175-1280.jpg",
+      "title": "The Art of Coding",
+      "author": "John Doe",
+      "img": "https://i.ibb.co/PDj5MzD/WIN-20231002-10-07-38-Pro.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["coding", "programming", "technology"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/VNBR403/pink-324175-1280.jpg",
+      "title": "Exploring AI and Machine Learning",
+      "author": "Jane Smith",
+      "img": "https://i.ibb.co/PDj5MzD/WIN-20231002-10-07-38-Pro.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 15,
+      "hashtags": ["AI", "machinelearning", "data"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/VNBR403/pink-324175-1280.jpg",
+      "title": "The Future of Space Exploration",
+      "author": "Bob Johnson",
+      "img": "https://i.ibb.co/PDj5MzD/WIN-20231002-10-07-38-Pro.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 12,
+      "hashtags": ["space", "science", "exploration"]
+    }
+  ]
+  
